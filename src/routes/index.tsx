@@ -1,7 +1,6 @@
 import React from 'react'
 
 import Router from './index.routes'
-import { View } from 'react-native'
 
 import { 
   NavigationContainer 
